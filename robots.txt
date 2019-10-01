@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ukahchuuce.tartanhare.com/sitemap.xml
